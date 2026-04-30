@@ -1,2 +1,2 @@
 # analysis-project1
-in this project i  have downloaded the dataset of titanic and then  i have perform the survival analysis
+In this project I have analyse the titanic dataset and try to understand the survival pattern. First I clean the data and handle missing values like age and embarked. Then I do some visualization and see that females are survive more than males and higher class peoples also have better survival chance. After that I apply statistical test like chi square and t test to check if the relation is significant or not. I also create a new column called familysize which give more better insight about group survival. Finally I conclude that gender, class and fare have strong impact on survival.
